@@ -12,6 +12,7 @@
     "deploy": "npm run pages:build && wrangler pages deploy"
   },
   "dependencies": {
+    "eslint-plugin-next-on-pages": "^1.13.2",
     "next": "14.2.11",
     "react": "^18",
     "react-dom": "^18"
