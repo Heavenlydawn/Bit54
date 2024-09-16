@@ -1,6 +1,6 @@
 import React from "react";
-import SendMoney from "./SendMoney";
 import Bit54Button from "../ButtonComp/Bit54Button";
+// import SendMoney from "./SendMoney";
 const Bit54Hero = () => {
   return (
     <main className="my-24 flex items-center justify-between">
@@ -18,7 +18,7 @@ const Bit54Hero = () => {
       </div>
 
       <div>
-        <SendMoney />
+        {/* <SendMoney /> */}
       </div>
     </main>
   );
