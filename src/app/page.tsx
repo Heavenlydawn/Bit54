@@ -1,4 +1,4 @@
-import BitHome from "@/Components/BitHome/BitHome";
+import BitHome from "@/components/BitHome/BitHome";
 export default function Home() {
   return (
     <div>

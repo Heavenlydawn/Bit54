@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: calc(100vw - 20px);
+  margin: 50px auto;
+  max-width: 1024px;
+}
